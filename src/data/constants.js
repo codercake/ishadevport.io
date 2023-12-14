@@ -10,7 +10,7 @@ export const Bio = {
       "Working on projects is like playing 'whack-a-mole,' but I always 'tag' the right 'div'. I am ready to make a meaningful contribution and achieve great milestones!",
     github: "https://github.com/codercake",
     resume:
-      "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+      "https://drive.google.com/file/d/1Ihg8WMHGlDW02Q5a6DnSG3Ti5hC5tf8f/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/ishitha-chaudhary",
     twitter: "https://twitter.com/_whitestormish_",
     insta: "https://www.instagram.com/ishithaaac_/",
@@ -85,21 +85,21 @@ export const Bio = {
         {
           name: "Python",
           image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
         },
         {
           name: "MySQL",
           image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+            "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-500x313.png",
         },
         {
           name: "Postgresql",
           image: "https://www.postgresql.org/media/img/about/press/elephant.png",
         },
         {
-          name: "MongoDB",
+          name: "Django",
           image:
-            "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg",
         },
         {
           name: "Firebase",
@@ -284,15 +284,8 @@ export const Bio = {
       member: [
         {
           name: "Ishitha Chaudhary",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
           linkedin: "https://www.linkedin.com/in/ishitha-chaudhary/",
           github: "https://github.com/codercake/",
-        },
-        {
-          name: "Stephen Jamthianumuan",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-          linkedin: "https://www.linkedin.com/in/stephen-jamthianumuan/",
-          github: "https://github.com/stephenmuan",
         },
       ],
     },
